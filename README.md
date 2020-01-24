@@ -26,3 +26,15 @@ To start the server:
 * Run `yarn dev`
 
 Now you can visit [`localhost:3333`](http://localhost:3333) from your browser.
+
+
+## Web
+
+To start the server:
+
+* Run `yarn start`
+
+You can now view web [`localhost:3000`](http://localhost:3000) in the browser.
+
+
+
