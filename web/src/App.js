@@ -3,6 +3,7 @@ import React from 'react';
 import './global.css';
 import './App.css';
 import './Sidebar.css';
+import './Main.css';
 
 function App() {
   return (
@@ -38,7 +39,52 @@ function App() {
         </form>
       </aside>
       <main>
-
+          <ul>
+            <li className="dev-item">
+              <header>
+                <img src="https://avatars2.githubusercontent.com/u/5034413?s=460&v=4" alt="Bruno Carvalho"></img>
+                <div className="user-info">
+                  <strong>Bruno Carvalho</strong>
+                  <span>ReactJS, React Native</span>
+                </div>
+              </header>
+              <p>Mostrar a biografia aqui.</p>
+              <a href="https://github.com/brunodeveloper">Acessar perfil no Github</a>
+            </li>
+            <li className="dev-item">
+              <header>
+                <img src="https://avatars2.githubusercontent.com/u/5034413?s=460&v=4" alt="Bruno Carvalho"></img>
+                <div className="user-info">
+                  <strong>Bruno Carvalho</strong>
+                  <span>ReactJS, React Native</span>
+                </div>
+              </header>
+              <p>Mostrar a biografia aqui.</p>
+              <a href="https://github.com/brunodeveloper">Acessar perfil no Github</a>
+            </li>
+            <li className="dev-item">
+              <header>
+                <img src="https://avatars2.githubusercontent.com/u/5034413?s=460&v=4" alt="Bruno Carvalho"></img>
+                <div className="user-info">
+                  <strong>Bruno Carvalho</strong>
+                  <span>ReactJS, React Native</span>
+                </div>
+              </header>
+              <p>Mostrar a biografia aqui.</p>
+              <a href="https://github.com/brunodeveloper">Acessar perfil no Github</a>
+            </li>
+            <li className="dev-item">
+              <header>
+                <img src="https://avatars2.githubusercontent.com/u/5034413?s=460&v=4" alt="Bruno Carvalho"></img>
+                <div className="user-info">
+                  <strong>Bruno Carvalho</strong>
+                  <span>ReactJS, React Native</span>
+                </div>
+              </header>
+              <p>Mostrar a biografia aqui.</p>
+              <a href="https://github.com/brunodeveloper">Acessar perfil no Github</a>
+            </li>
+          </ul>
       </main>
     </div>
 
